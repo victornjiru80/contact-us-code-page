@@ -8,6 +8,7 @@
   body{
       background-color: rgb(158, 193, 190);
   }
+
   .container{
     height: 100vh;
     display: flex;

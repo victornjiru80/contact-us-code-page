@@ -103,6 +103,7 @@
     font-size: 11px;
     width: 100%;
   }
+
   .name input::placeholder{
     color: rgb(168, 168, 168);
   }

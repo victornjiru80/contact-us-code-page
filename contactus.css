@@ -121,6 +121,7 @@
     font-size: 11px;
     width: 100%;
   }
+
   .email input::placeholder{
     color: rgb(168, 168, 168);
   }

@@ -141,9 +141,11 @@
     text-decoration: none;
     
   }
+
   .textarea textarea::placeholder{
     color: rgb(168, 168, 168);
   }
+
   .sendBtn input{
     outline: none;
     border: none;

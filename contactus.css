@@ -163,6 +163,7 @@
       flex-direction:column-reverse;
       height:auto;
     }
+
     .contactIcons{
       flex-direction: row;
       flex-wrap: wrap;

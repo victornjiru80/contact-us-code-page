@@ -178,10 +178,9 @@
     }
   
     
-  .verticalLine{
-    display: none;
-  }
-  
+    .verticalLine{
+                  display: none;
+    }
   .sendMsg{
     margin-bottom: 30px;
   }}
